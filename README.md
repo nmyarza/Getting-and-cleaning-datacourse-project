@@ -9,7 +9,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The data was downloaded from the following url ( 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzipped for the purposes of this assignment.
 
-The present assignment includes 1) a tidy data set called tidydataSet.txt, 2) a link to a Github repository with the script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data called CodeBook.md.
+The present assignment includes 1) a tidy data set called tidy_data.txt, 2) a link to a Github repository with the script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data called CodeBook.md.
 
 # R script to performing the analysis for coursera 'Getting and Cleaning Data Course Project'
 
